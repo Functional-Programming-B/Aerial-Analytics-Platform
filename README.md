@@ -1,2 +1,7 @@
-# Aerial-Analytics-Platform
-The Aerial Analytics Platform is designed to process and analyze RGB aerial imagery captured using standard drones. The platform uses a plugin-based architecture so that analytical capabilities can be added independently without modifying the core system.
+# Tauri + React + Typescript
+
+This template should help get you started developing with Tauri, React and Typescript in Vite.
+
+## Recommended IDE Setup
+
+- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
